@@ -37,3 +37,4 @@ python qr_decode.py test.png
 
 ### 示例
 
+![示例](shili.png)
