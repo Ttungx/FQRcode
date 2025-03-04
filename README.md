@@ -32,7 +32,7 @@ pip install pillow pyzbar
 ### 用法
 
 ``` cmd
-python fqrcode.py test.png
+python fqrcode.py merged_qr.png
 ```
 
 ### 示例
